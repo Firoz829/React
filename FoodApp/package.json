@@ -1,0 +1,26 @@
+{
+  "name": "food-app",
+  "version": "1.0.0",
+  "description": "this is for practice",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "author": "firoz shaikh",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/react": "^19.0.10",
+    "autoprefixer": "^10.4.21",
+    "parcel": "^2.13.3",
+    "postcss": "^8.5.3",
+    "process": "^0.11.10",
+    "tailwindcss": "^3.4.17"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-router-dom": "^6.30.0"
+  },
+  "type": "module"
+}
